@@ -14,3 +14,5 @@ if(name === "Susan") {
 
 var tests = require("./tests.js")
 
+console.log(tests.name)
+console.log(tests.height)
